@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710181106129",
+    "project_id": "mid-project-ff35e",
+    "storage_bucket": "mid-project-ff35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710181106129:android:613cf5b41f85ba493e70f0",
+        "android_client_info": {
+          "package_name": "com.gertrude.flutter_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4xVj3APu8kI_IFPrJCW-SPmo3IiHgu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
